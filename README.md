@@ -1,5 +1,7 @@
 # Employee Attrition Insights and Retention Strategies
 
+## Table of Contents
+
 - [Business Problem](#business-problem)
 - [Rationale for the Project](#rationale-for-the-project)
 - [Aim of the Project](#aim-of-the-project)
