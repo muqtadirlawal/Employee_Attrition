@@ -5,6 +5,7 @@
 - [Aim of the Project](#aim-of-the-project)
 - [Data Description](#data-description)
 - [Project Scope](#project-scope)
+- [Analysis Summary](#analysis-summary)
 - [Recommendations](#recommendations)
 
 ## Business Problem
