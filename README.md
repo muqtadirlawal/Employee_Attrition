@@ -1,6 +1,7 @@
 # Employee Attrition Insights and Retention Strategies
 
 - [Business Problem](#business-problem)
+- [Rationale for the Project](#rationale-for-the-project)
 - [Recommendations](#recommendations)
 
 ## Business Problem
