@@ -4,8 +4,8 @@
 - [Rationale for the Project](#rationale-for-the-project)
 - [Aim of the Project](#aim-of-the-project)
 - [Data Description](#data-description)
-- [Project Scope](#project-scope)
 - [Tech Stack](#tech-stack)
+- [Project Scope](#project-scope)
 - [Analysis and Insights](#analysis-and-insights)
 - [Recommendations](#recommendations)
 
