@@ -5,7 +5,7 @@
 - [Aim of the Project](#aim-of-the-project)
 - [Data Description](#data-description)
 - [Project Scope](#project-scope)
-- [Analysis Summary](#analysis-summary)
+- [Analysis and Insights](#analysis-and-insights)
 - [Recommendations](#recommendations)
 
 ## Business Problem
@@ -68,7 +68,7 @@ The scope of the project includes:
 4. Insights Generation: Using DAX calculations to generate insights into key factors such as job satisfaction, work-life balance, distance from home, and overtime, and how these influence attrition.
 5. Recommendations: Providing actionable recommendations to management based on the insights, aimed at reducing employee turnover by focusing on high-risk employees.
 
-## Analysis Summary
+## Analysis and Insights
 The report comprises 5 pages:
 1. Overview/Summary
 2. Demographics & Job Roles
@@ -78,7 +78,7 @@ The report comprises 5 pages:
 
 You can interact with the report here...
 
-## Overview/Summary
+## Summary
 This page focuses on the key factors driving attrition and highlights the main retention risks to management.
 - We see that the Company has a total of 2,940 employees, 474 of those left the company during the period in consideration. This gives an Attrition rate of 16%.
 - We see that tenure is a significant factor, with 364 employees out of 474 (~77%) leaving within the first 10 years.
