@@ -1,3 +1,5 @@
+# Employee Attrition Insights and Retention Strategies
+
 ## Business Overview/Problem
 McCurr Consultancy, a global MNC, seeks to reduce the costs associated with employee retention by focusing on those most at risk of leaving the organization. By analyzing employee data, McCurr aims to identify key factors influencing employee attrition and use these insights to develop targeted strategies that retain top talent.
 
