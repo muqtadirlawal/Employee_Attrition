@@ -79,11 +79,9 @@ The report comprises 5 pages:
 4. Performance & Compensation
 5. Recommendations
 
-You can interact with the report here...
+You can interact with the report [here](https://app.powerbi.com/reportEmbed?reportId=5951520f-2ec4-4aa6-815d-bac96afe5578&autoAuth=true&ctid=0c84044c-4fd5-4e83-bb73-cbb8c6278b2f)
 
 ### Summary
-Summary:
-![](Overview.pdf)
 This page focuses on the key factors driving attrition and highlights the main retention risks to management.
 - We see that the Company has a total of 2,940 employees, 474 of those left the company during the period in consideration. This gives an Attrition rate of 16%.
 - We see that tenure is a significant factor, with 364 employees out of 474 (~77%) leaving within the first 10 years.
