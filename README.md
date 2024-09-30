@@ -79,7 +79,7 @@ The report comprises 5 pages:
 4. Performance & Compensation
 5. Recommendations
 
-You can interact with the report [here](https://app.powerbi.com/reportEmbed?reportId=5951520f-2ec4-4aa6-815d-bac96afe5578&autoAuth=true&ctid=0c84044c-4fd5-4e83-bb73-cbb8c6278b2f)
+You can interact with the report [here]()
 
 ### Summary
 This page focuses on the key factors driving attrition and highlights the main retention risks to management.
