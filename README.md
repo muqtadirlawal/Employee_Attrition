@@ -73,7 +73,7 @@ The scope of the project includes:
 
 ## Analysis and Insights
 The report comprises 5 pages:
-1. Overview/Summary
+1. Overview
 2. Demographics & Job Roles
 3. Satisfaction & Work-life Balance
 4. Performance & Compensation
