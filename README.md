@@ -82,7 +82,7 @@ The report comprises 5 pages:
 You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiN2FiNmVhNWUtNWM3OS00ZTU1LTg3ZmEtMmNhZTEzNTc5NTIwIiwidCI6IjBjODQwNDRjLTRmZDUtNGU4My1iYjczLWNiYjhjNjI3OGIyZiJ9)
 
 ### Summary
-![](Overview.png)
+![]()
 
 This page focuses on the key factors driving attrition and highlights the main retention risks to management.
 - We see that the Company has a total of 2,940 employees, 474 of those left the company during the period in consideration. This gives an Attrition rate of 16%.
