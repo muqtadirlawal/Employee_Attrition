@@ -82,7 +82,7 @@ The report comprises 5 pages:
 You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiN2FiNmVhNWUtNWM3OS00ZTU1LTg3ZmEtMmNhZTEzNTc5NTIwIiwidCI6IjBjODQwNDRjLTRmZDUtNGU4My1iYjczLWNiYjhjNjI3OGIyZiJ9)
 
 ### Summary
-![]()
+![](Overview.png)
 
 This page focuses on the key factors driving attrition and highlights the main retention risks to management.
 - We see that the Company has a total of 2,940 employees, 474 of those left the company during the period in consideration. This gives an Attrition rate of 16%.
@@ -94,6 +94,8 @@ This page focuses on the key factors driving attrition and highlights the main r
 These are the key areas where targeted interventions can help retain the company's best talents and reduce attrition.
 
 ### Demographics & Job Roles
+![](Demography.png)
+
 Here, we'll have a closer look into who- which employee demographics and job roles are most impacted by attrition.
 - We see that Attrition is higher among male employees (63%) and single employees (50%), especially among the 26-35 age group, who may be seeking better oppportunities.
 - Also, attrition is predominant in junior/entry-level roles (Job Role 1) at 60%, indicating thet junior staff may lack engagement or growth paths.
@@ -101,12 +103,16 @@ Here, we'll have a closer look into who- which employee demographics and job rol
 Retention strategies focusing on career development and engagement for these groups can reduce turnover.
 
 ### Satisfaction and Work-Life Balance
+![](Satisfaction.png)
+
 This page explores how job satisfaction, work-life balance, and the work-environment affect attrition.
 - Job satisfaction is a key factor, with 28% (132) of employees that left expressing dissatisfaction with their jobs.
 - Interestingly, 254 of the 474 employees that left had an excellent work-life balance, meaning other factors like job satisfaction and overtime (worked by 53.5% of leavers) may be driving attrition.
 - The work environment also played a role, with 144 employees who left expressing dissatisfaction with it.
 
 ### Performance and Compensation
+![](Performance.png)
+
 - The majority of employees who left earned between 1k-5k per month, indicating that compensation could be a factor.
 - 84% of those who left are excellent performers, meaning the Company is losing it's top talents.
 - Employees who received the lowest salary hikes were more likely to leave, suggesting that financial recognition may be inadequate.
